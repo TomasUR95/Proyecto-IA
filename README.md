@@ -6,5 +6,3 @@ Inteligencia artificial para las ciencias e ingenierías
 Tomas Urango Ruiz
 
 Lucas Bustamante
-
-Jheison Andrés Benavides Rincon
